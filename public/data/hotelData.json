@@ -1,0 +1,1241 @@
+{
+  "city": {
+    "id": "a8a82151-bd05-4aa7-9bd6-f6591c00993b",
+    "slug": "amsterdam",
+    "name": "Amsterdam",
+    "country_code": "NL",
+    "country": "Pays-Bas",
+    "hotels_count": 7,
+    "header_color": "",
+    "color": "",
+    "is_header_text_color_dark": true,
+    "weather_summary": "Ciel nuageux toute la journée.",
+    "temperature": 3,
+    "header_foreground_image": {
+      "xlarge": null,
+      "large": null,
+      "medium": null,
+      "small": null
+    },
+    "header_background_image": {
+      "xlarge": "https://staging.grandnumero.com/uploads/store/city/a8a82151-bd05-4aa7-9bd6-f6591c00993b/header_background_image/xlarge-606caf5303e73b3930644618b8ff39b3.jpg",
+      "large": "https://staging.grandnumero.com/uploads/store/city/a8a82151-bd05-4aa7-9bd6-f6591c00993b/header_background_image/large-e1a3b2006519b222d7f81dce865c2696.jpg",
+      "medium": "https://staging.grandnumero.com/uploads/store/city/a8a82151-bd05-4aa7-9bd6-f6591c00993b/header_background_image/medium-a60249414711a0a883c84a96886dc66a.jpg",
+      "small": "https://staging.grandnumero.com/uploads/store/city/a8a82151-bd05-4aa7-9bd6-f6591c00993b/header_background_image/small-2ea9f6a26eccf6f3ac5534afb23b0f53.jpg"
+    },
+    "thumb_image": {
+      "large": "https://staging.grandnumero.com/uploads/store/city/a8a82151-bd05-4aa7-9bd6-f6591c00993b/thumb_image/large-81ce51dbc909f27bcd780e863d220f36.jpg",
+      "medium": "https://staging.grandnumero.com/uploads/store/city/a8a82151-bd05-4aa7-9bd6-f6591c00993b/thumb_image/medium-3e9521df88556e67a1167929df97d233.jpg",
+      "small": "https://staging.grandnumero.com/uploads/store/city/a8a82151-bd05-4aa7-9bd6-f6591c00993b/thumb_image/small-386e56d4ca89007f34022acdb9b0510c.jpg"
+    },
+    "hotels_pagination": {
+      "current_page": 1,
+      "page_count": 1
+    },
+    "hotels": [
+      {
+        "id": "08e27c2c-d460-46fe-a4b6-3aac85a5b930",
+        "slug": "pulitzer-amsterdam",
+        "name": "Pulitzer Amsterdam",
+        "description": "Découvrez l'élégance hollandaise dans ce dédale de 25 maisons donnant sur les canaux. Entièrement rénové en 2016, le Pullitzer Amsterdam propose désormais des chambres intimes, des jardins intérieurs paisibles, des espaces de réunion et de réception, un café-jardin, un bar et un restaurant servant des plats simples et raffinés. Le Pulitzer est un savant mélange d'artisanat néerlandais haut de gamme, traditionnel et moderne, caché au coeur des canaux emblématiques de la ville.",
+        "affiliate_booking_url": "https://www.booking.com/hotel/nl/pulitzer.fr.html?aid=1307822",
+        "address": "Prinsengracht 323",
+        "address_complement": "",
+        "zipcode": "1016 GZ",
+        "phone_number": "+31 20 523 5235",
+        "influencers": [],
+        "min_price": 22600,
+        "geolocation": {
+          "latitude": 52.37304,
+          "longitude": 4.883342
+        },
+        "rooms": [
+          {
+            "id": "066ade85-95c2-4a73-9a34-b545b4493b70",
+            "name": "Chambre Classique, 2 lits une place",
+            "surface": 25.0,
+            "max_persons": 2
+          },
+          {
+            "id": "1aa43c84-f13d-4103-a50d-b4bd8bfb8525",
+            "name": "Suite Exclusive (Antique Collectors)",
+            "surface": 65.0,
+            "max_persons": 2
+          },
+          {
+            "id": "277a875c-079e-469f-b4ba-42017a092141",
+            "name": "Suite Exclusive (Music Collectors)",
+            "surface": 37.0,
+            "max_persons": 2
+          },
+          {
+            "id": "369aa087-3df6-4ddb-98d9-3c8b7b0c3a98",
+            "name": "Chambre Double Classique pour 1 personne",
+            "surface": null,
+            "max_persons": 1
+          },
+          {
+            "id": "4ed7da2e-1657-49a5-8b11-ed68fd718fbf",
+            "name": "Chambre Exécutive",
+            "surface": null,
+            "max_persons": 3
+          },
+          {
+            "id": "66b2ef1b-032e-4711-8d9d-8b796d073e05",
+            "name": "Chambre Deluxe",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "6758a194-f2e8-48d3-aeae-5e6eb9f0dda0",
+            "name": "Chambre Exécutive",
+            "surface": 30.0,
+            "max_persons": 3
+          },
+          {
+            "id": "72350052-2737-4555-9222-208a3a453cda",
+            "name": "Chambre Deluxe, vue canal",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "73d5db42-2524-4f61-853f-e1375707cd6a",
+            "name": "Suite Familiale",
+            "surface": 70.0,
+            "max_persons": 4
+          },
+          {
+            "id": "7fabc267-cd78-4fb1-9a1f-27097ffb42ab",
+            "name": "Suite Exclusive (Art Collectors)",
+            "surface": 54.0,
+            "max_persons": 2
+          },
+          {
+            "id": "8538cdea-285c-46d2-993a-12565881a77e",
+            "name": "Chambre Classique, 1 très grand lit",
+            "surface": 25.0,
+            "max_persons": 2
+          },
+          {
+            "id": "8ae48bbc-41f9-4338-9d34-5bcd426bbb3a",
+            "name": "Chambre Deluxe, vue canal",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "9164cc5a-6017-4c53-8d27-7043f26547b8",
+            "name": "Chambre Classique, 1 grand lit",
+            "surface": 25.0,
+            "max_persons": 2
+          },
+          {
+            "id": "9c2bfaee-fa27-4ee6-ad16-1ecd5612a17c",
+            "name": "Suite Exclusive (Book Collectors)",
+            "surface": 69.0,
+            "max_persons": 2
+          },
+          {
+            "id": "a2728fd4-73db-463a-bb66-3bd148057ecd",
+            "name": "Suite",
+            "surface": 55.0,
+            "max_persons": 3
+          },
+          {
+            "id": "a418830d-f3e9-4745-a1c5-d93150d47634",
+            "name": "Chambre Exécutive, vue canal",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "c16245e2-570c-4bb3-9bb0-3e7aaebb12ec",
+            "name": "Chambre Exécutive",
+            "surface": null,
+            "max_persons": 3
+          },
+          {
+            "id": "cecbed0a-4844-492e-8ba8-e87c7e50a683",
+            "name": "Suite Exclusive (Antique Collectors)",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "d6f9d3ce-68e6-4e7c-9b64-5902bfaed8d3",
+            "name": "Chambre Deluxe, 1 très grand lit, vue canal",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "d7cc494c-a19a-4deb-98b9-57ee9bbf0890",
+            "name": "Suite (Pulitzer)",
+            "surface": 55.0,
+            "max_persons": 3
+          },
+          {
+            "id": "e4e3bf6e-9f4d-4acc-a1e3-fdec90d514cd",
+            "name": "Chambre Deluxe",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "ec127e8d-658b-459e-87ed-e9bf80032b8f",
+            "name": "Chambre Simple (Single use )",
+            "surface": 15.0,
+            "max_persons": 1
+          },
+          {
+            "id": "fa22ee86-a376-46c3-b2d5-40cbb8ea87c2",
+            "name": "Suite Junior",
+            "surface": 45.0,
+            "max_persons": 3
+          }
+        ],
+        "images": [
+          {
+            "id": "6a9820a4-6761-4dda-9b7f-f532c77f90c9",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/6a9820a4-6761-4dda-9b7f-f532c77f90c9/image/h_xlarge-114439aa236bf4235375cfcd0fe7db31.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/6a9820a4-6761-4dda-9b7f-f532c77f90c9/image/h_large-2209d847832dcbc3db1cba1ca0d4964e.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/6a9820a4-6761-4dda-9b7f-f532c77f90c9/image/h_medium-4c57743463d998a70588fc044c3dc760.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/6a9820a4-6761-4dda-9b7f-f532c77f90c9/image/h_small-5d93f6d6db32f7c1e1348d647ae8cb4f.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/6a9820a4-6761-4dda-9b7f-f532c77f90c9/image/v_xlarge-b5f63cc525cd005c66bf14b75fd94489.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/6a9820a4-6761-4dda-9b7f-f532c77f90c9/image/v_large-1dfe3c020694278f1247860c0a3fa6a6.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/6a9820a4-6761-4dda-9b7f-f532c77f90c9/image/v_medium-969e0d9d65133179ad5bd55eead44f9d.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/6a9820a4-6761-4dda-9b7f-f532c77f90c9/image/v_small-4f5dc4c26d1c2479ad73c3bb31967ec3.jpg"
+          },
+          {
+            "id": "32f08a19-ca74-478b-8d03-51bfbbec9ea5",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/32f08a19-ca74-478b-8d03-51bfbbec9ea5/image/h_xlarge-5a1350a331c9a27b91aa0f9f05ce5cc7.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/32f08a19-ca74-478b-8d03-51bfbbec9ea5/image/h_large-c6df1be3702015700f584edeb1133468.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/32f08a19-ca74-478b-8d03-51bfbbec9ea5/image/h_medium-a6a3b9be082df687100e4bb20d364040.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/32f08a19-ca74-478b-8d03-51bfbbec9ea5/image/h_small-fc63f61e4de3705b0e35e4ae97fa829b.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/32f08a19-ca74-478b-8d03-51bfbbec9ea5/image/v_xlarge-28dea92d41c13efd210b06001896f3f0.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/32f08a19-ca74-478b-8d03-51bfbbec9ea5/image/v_large-f366abfc9b87bf5d37861ce270896c4e.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/32f08a19-ca74-478b-8d03-51bfbbec9ea5/image/v_medium-67853502cb59e268f4b2cb7e6b0a3e29.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/32f08a19-ca74-478b-8d03-51bfbbec9ea5/image/v_small-76ba5fbaf7ce2cd41553c1ae5d263339.jpg"
+          },
+          {
+            "id": "3dd8d98c-104b-49cc-a7c8-0d94f2b65a08",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/3dd8d98c-104b-49cc-a7c8-0d94f2b65a08/image/h_xlarge-11434e500dd2b0d09f6871678dc29878.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/3dd8d98c-104b-49cc-a7c8-0d94f2b65a08/image/h_large-18cc803fb2c8f8563b835933c07e6c39.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/3dd8d98c-104b-49cc-a7c8-0d94f2b65a08/image/h_medium-85f9ba74745706dc856fb1f3e035f49a.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/3dd8d98c-104b-49cc-a7c8-0d94f2b65a08/image/h_small-3ad0c15f94af0a1af3e56bcdd9d14134.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/3dd8d98c-104b-49cc-a7c8-0d94f2b65a08/image/v_xlarge-d9f03753f304b28300eb84a0e879bdc3.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/3dd8d98c-104b-49cc-a7c8-0d94f2b65a08/image/v_large-74071f8ba78e65cdbe433a2cc486eb57.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/3dd8d98c-104b-49cc-a7c8-0d94f2b65a08/image/v_medium-beae99eebde176086a098e94ec59ef3d.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/3dd8d98c-104b-49cc-a7c8-0d94f2b65a08/image/v_small-c368b346085ebe8395a800b5e80bf237.jpg"
+          },
+          {
+            "id": "b38f16d6-cca6-42d2-9d85-7aab7df0e4db",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/b38f16d6-cca6-42d2-9d85-7aab7df0e4db/image/h_xlarge-98da4561f3ee69815b74ae557a8a9764.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/b38f16d6-cca6-42d2-9d85-7aab7df0e4db/image/h_large-8cda12f166c9c282668a0f7dccae6dd2.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/b38f16d6-cca6-42d2-9d85-7aab7df0e4db/image/h_medium-44e2274794f541d717323c5eb7116d3d.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/b38f16d6-cca6-42d2-9d85-7aab7df0e4db/image/h_small-132aa087970c1a36595cf1dbc59f2b87.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/b38f16d6-cca6-42d2-9d85-7aab7df0e4db/image/v_xlarge-ce5768940b7783359f56cca4cfd81dec.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/b38f16d6-cca6-42d2-9d85-7aab7df0e4db/image/v_large-6103b11c4dca4a559897fe9d52ae9fcd.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/b38f16d6-cca6-42d2-9d85-7aab7df0e4db/image/v_medium-fae45a2a8adc99413d4e804ac435e6d5.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/b38f16d6-cca6-42d2-9d85-7aab7df0e4db/image/v_small-19b31822673a241ca3272b1f4e5727bc.jpg"
+          },
+          {
+            "id": "d428af06-48d3-435c-aab6-4e2e04d5df64",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/d428af06-48d3-435c-aab6-4e2e04d5df64/image/h_xlarge-c3c40d06bd75f450d10d9abff1942ec2.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/d428af06-48d3-435c-aab6-4e2e04d5df64/image/h_large-0ab0a0fdad83842b9fd31f6738b0aefa.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/d428af06-48d3-435c-aab6-4e2e04d5df64/image/h_medium-669302db5c01c72dab3b0a3566833348.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/d428af06-48d3-435c-aab6-4e2e04d5df64/image/h_small-0f936900e0690c2be1696ff523ca6f87.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/d428af06-48d3-435c-aab6-4e2e04d5df64/image/v_xlarge-56fb8d1df4b5461670e8e7e93a46b5a7.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/d428af06-48d3-435c-aab6-4e2e04d5df64/image/v_large-358d9d197cf96516f6f2093c4f2f9a05.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/d428af06-48d3-435c-aab6-4e2e04d5df64/image/v_medium-f83b249a260faea641f902093acd6a36.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/d428af06-48d3-435c-aab6-4e2e04d5df64/image/v_small-446b9a836a910f30adb557f32127052b.jpg"
+          }
+        ]
+      },
+      {
+        "id": "40fdab13-1b38-44aa-8d31-8c6c5c8b7858",
+        "slug": "waldorf-astoria-amsterdam",
+        "name": "Waldorf Astoria Amsterdam",
+        "description": "Le Waldorf Astoria Amsterdam se compose de 6 palais monumentaux du XVIIème siècle installés le long du canal de l'Herengracht, classé au patrimoine mondial de l'UNESCO. Cet hôtel 5 étoiles est implanté au cœur de la ville, à seulement 150 mètres de la place animée Rembrandtplein. Découvrez le meilleur du patrimoine néerlandais. Waldorf Astoria Amsterdam combine un service légendaire et une élégance intemporelle pour une expérience inoubliable. A quelques pas des boutiques de luxe, des musées et des théâtres, ce chef-d'œuvre architectural offre une vue imprenable sur le canal ou le jardin de la cour depuis ses chambres, suites et lofts. ",
+        "affiliate_booking_url": "https://www.booking.com/hotel/nl/waldorf-astoria-amsterdam.fr.html?aid=1307822",
+        "address": "Herengracht 542-556",
+        "address_complement": "",
+        "zipcode": "1017 CG",
+        "phone_number": "+31 20 718 4600",
+        "influencers": [],
+        "min_price": 48500,
+        "geolocation": {
+          "latitude": 52.364724,
+          "longitude": 4.896988
+        },
+        "rooms": [
+          {
+            "id": "03f349bd-687c-4900-b66f-a6b58e864a1d",
+            "name": "Chambre Deluxe, 1 grand lit",
+            "surface": 28.0,
+            "max_persons": 2
+          },
+          {
+            "id": "20e66c7c-133c-46a4-b6c0-148a7be2a585",
+            "name": "Suite, 1 très grand lit, non-fumeur (Brentano)",
+            "surface": 123.0,
+            "max_persons": 3
+          },
+          {
+            "id": "219948e4-db1f-45bd-b1e5-1395c57d63ff",
+            "name": "Loft Majestueux, 1 très grand lit",
+            "surface": 70.0,
+            "max_persons": 2
+          },
+          {
+            "id": "25bb9a6d-4c95-4d8f-be0c-5d8176694b51",
+            "name": "Chambre Majestueuse, 1 très grand lit, non-fumeur, vue canal (Premier)",
+            "surface": 44.0,
+            "max_persons": 2
+          },
+          {
+            "id": "2a25ccab-8f7d-40db-b90e-d45219a93089",
+            "name": "Suite, 1 très grand lit, non-fumeur (Roell)",
+            "surface": 77.0,
+            "max_persons": 3
+          },
+          {
+            "id": "4c4de84c-4710-4d89-b73f-05a6f85eb77c",
+            "name": "Chambre Supérieure, 1 très grand lit",
+            "surface": 28.0,
+            "max_persons": 2
+          },
+          {
+            "id": "550ad596-6d81-4051-b4d2-8c30be9313cc",
+            "name": "Chambre « Premier » avec lits jumeaux",
+            "surface": 38.0,
+            "max_persons": 2
+          },
+          {
+            "id": "6873bdc5-9261-496d-af86-3699aaf8931a",
+            "name": "Chambre Supérieure, 1 très grand lit (Plus)",
+            "surface": 28.0,
+            "max_persons": 2
+          },
+          {
+            "id": "717bc84b-8bcd-4c4c-aa1c-6adc2461a4c5",
+            "name": "Loft, 1 très grand lit",
+            "surface": 44.0,
+            "max_persons": 2
+          },
+          {
+            "id": "791c2d38-3406-45cc-975b-46dc70b888dc",
+            "name": "Chambre « Premier », 1 très grand lit",
+            "surface": 32.0,
+            "max_persons": 2
+          },
+          {
+            "id": "81d6d74d-946d-49d7-8c77-e708ae8e9997",
+            "name": "Chambre Majestueuse avec lits jumeaux, non-fumeur (Premier)",
+            "surface": 51.0,
+            "max_persons": 2
+          },
+          {
+            "id": "9609413a-e4e6-4e73-be87-622c675db37d",
+            "name": "Chambre Deluxe, 1 très grand lit",
+            "surface": 29.0,
+            "max_persons": 2
+          },
+          {
+            "id": "9abfe3a1-d849-4c1e-baf3-02a66d4b5c6c",
+            "name": "Chambre Majestueuse avec lits jumeaux, vue canal (Premier)",
+            "surface": 47.0,
+            "max_persons": 2
+          },
+          {
+            "id": "a22a1722-d249-4ed0-9c4c-b6cf5402f925",
+            "name": "Suite, 1 très grand lit, non-fumeur (Van Loon)",
+            "surface": 101.0,
+            "max_persons": 3
+          },
+          {
+            "id": "b59dcc15-e07c-4bf4-898f-76cb06dbfd5b",
+            "name": "Chambre Supérieure, 1 très grand lit, accessible aux personnes à mobilité réduite",
+            "surface": 38.0,
+            "max_persons": 2
+          },
+          {
+            "id": "bec470bb-9199-4eb6-8457-f910dda7b559",
+            "name": "Suite Junior, 1 très grand lit, avec vue",
+            "surface": 41.0,
+            "max_persons": 2
+          },
+          {
+            "id": "cacd8f1b-170b-47b8-b9c7-40b353650178",
+            "name": "Suite, 1 chambre (Living Room)",
+            "surface": 57.0,
+            "max_persons": 3
+          },
+          {
+            "id": "ed490233-4dcd-4278-9c14-2704dfca2fac",
+            "name": "Chambre Majestueuse, 1 très grand lit, non-fumeur (Premier)",
+            "surface": 36.0,
+            "max_persons": 2
+          },
+          {
+            "id": "f79dd42c-7722-4c9c-aa1b-b4440b26bdc9",
+            "name": "Suite, 1 très grand lit, non-fumeur (Backer Suite)",
+            "surface": 56.0,
+            "max_persons": 3
+          }
+        ],
+        "images": [
+          {
+            "id": "4abdea63-47f2-477a-8474-cd5feddf0155",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/4abdea63-47f2-477a-8474-cd5feddf0155/image/h_xlarge-3b475b8408e4f07c3777fd3059750fb4.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/4abdea63-47f2-477a-8474-cd5feddf0155/image/h_large-169b255bd1611ffd5b3690c4c49c374a.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/4abdea63-47f2-477a-8474-cd5feddf0155/image/h_medium-e89e99e88b910df7921b8e58e6e6c7ed.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/4abdea63-47f2-477a-8474-cd5feddf0155/image/h_small-6f374f1d5b3bdbfbf18fb0b37b9aaa3b.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/4abdea63-47f2-477a-8474-cd5feddf0155/image/v_xlarge-d229ac0e35e88aeac5b3483e6996fbbc.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/4abdea63-47f2-477a-8474-cd5feddf0155/image/v_large-05179fcfb39da50778facf139dfb7d19.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/4abdea63-47f2-477a-8474-cd5feddf0155/image/v_medium-566757e208cd61c41268939fd3877096.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/4abdea63-47f2-477a-8474-cd5feddf0155/image/v_small-9e6e5e6f0b6ee879ae2eacd0cfd01b47.jpg"
+          },
+          {
+            "id": "566b0977-2284-4bd3-847b-8811c6431125",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/566b0977-2284-4bd3-847b-8811c6431125/image/h_xlarge-02897bae486e44e3876ab70d8b6a84d5.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/566b0977-2284-4bd3-847b-8811c6431125/image/h_large-7bafb7b0bf32dfce676c421823e7b5fa.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/566b0977-2284-4bd3-847b-8811c6431125/image/h_medium-c846dbd933c1b1259199a9c7deb191cb.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/566b0977-2284-4bd3-847b-8811c6431125/image/h_small-c82f6a4322c83160f9564fd456936ddb.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/566b0977-2284-4bd3-847b-8811c6431125/image/v_xlarge-6898e81271ab94ad8b367c070649317d.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/566b0977-2284-4bd3-847b-8811c6431125/image/v_large-bd76b777f1c8ebcef866495881d20827.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/566b0977-2284-4bd3-847b-8811c6431125/image/v_medium-b33fa39829be5272c2d606781d129e86.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/566b0977-2284-4bd3-847b-8811c6431125/image/v_small-c0e148e3190f4a5510a16bc5fa57fc07.jpg"
+          },
+          {
+            "id": "a8fc0629-13ef-48ca-9aa3-4f1ef3685367",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/a8fc0629-13ef-48ca-9aa3-4f1ef3685367/image/h_xlarge-cc1b7b5ad9aa5aa495e4232420b4bd1a.jpeg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/a8fc0629-13ef-48ca-9aa3-4f1ef3685367/image/h_large-c31fa1e8b765c48b3eb49e888b282f67.jpeg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/a8fc0629-13ef-48ca-9aa3-4f1ef3685367/image/h_medium-bd327c8cd801cdcfbb18b1bbdd70bed9.jpeg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/a8fc0629-13ef-48ca-9aa3-4f1ef3685367/image/h_small-671f7546246446e6245c775942d7d057.jpeg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/a8fc0629-13ef-48ca-9aa3-4f1ef3685367/image/v_xlarge-035b85260bc297b88172443dff50b972.jpeg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/a8fc0629-13ef-48ca-9aa3-4f1ef3685367/image/v_large-d0f10a25c7c81a3506ca6fc6b50b802b.jpeg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/a8fc0629-13ef-48ca-9aa3-4f1ef3685367/image/v_medium-3f67dbad5240c99a298d05904b591d6f.jpeg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/a8fc0629-13ef-48ca-9aa3-4f1ef3685367/image/v_small-c3b252b31484cb903158defef07d9679.jpeg"
+          },
+          {
+            "id": "ea89b78e-7092-44ab-bb29-e5b32b9e4123",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/ea89b78e-7092-44ab-bb29-e5b32b9e4123/image/h_xlarge-50e8f68882a48d8ff366d8dc8f3dcc8e.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/ea89b78e-7092-44ab-bb29-e5b32b9e4123/image/h_large-1f18e8fe137821c0934539acfa084171.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/ea89b78e-7092-44ab-bb29-e5b32b9e4123/image/h_medium-3076a01f217401d7a1f3e32fed86793c.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/ea89b78e-7092-44ab-bb29-e5b32b9e4123/image/h_small-94f2324b5c93501d8fe436b41fe05a4a.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/ea89b78e-7092-44ab-bb29-e5b32b9e4123/image/v_xlarge-276cffc462713f31057995cb3cbb272f.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/ea89b78e-7092-44ab-bb29-e5b32b9e4123/image/v_large-4ce16c91cae08eb6fb148eb0de87fe9b.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/ea89b78e-7092-44ab-bb29-e5b32b9e4123/image/v_medium-e5a075811de39fa65a09b53cd2d6e4c9.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/ea89b78e-7092-44ab-bb29-e5b32b9e4123/image/v_small-5c1d3375156b3d5ee12a1279e4a0a4c7.jpg"
+          }
+        ]
+      },
+      {
+        "id": "b2abe837-13a3-4b63-8df3-c3171bdb607c",
+        "slug": "the-hoxton-amsterdam",
+        "name": "The Hoxton Amsterdam",
+        "description": "Ancienne demeure du maire de la ville, aujourd'hui devenue votre maison sur le canal Herengracht d'Amsterdam. Les 111 chambres regorgent de curiosités et ont gardé les caractéristiques de ce bâtiment historique : des plafonds monumentaux, une vue sur le canal et des poutres d'époque. Toutes les chambres sont dotées de lustres en laiton, de miroirs hexagonaux sur mesure et de parquet à chevrons classiques. Avec des fauteuils confortables, des coins confortables, une mezzanine et un photomaton, le lobby vous accueille toute la journée. Le restaurant Lotti sert des plats frais et délicieux dans la cuisine ouverte, du matin au soir.",
+        "affiliate_booking_url": "https://www.booking.com/hotel/nl/the-hoxton-amsterdam.fr.html?aid=1307822",
+        "address": "Herengracht 255",
+        "address_complement": "",
+        "zipcode": "1016 BJ ",
+        "phone_number": "+31 20 888 5555",
+        "influencers": [
+          {
+            "id": "db36c50b-4aaf-42b4-9ce7-539a898cb9c9",
+            "slug": "mathilde-lacombe",
+            "number": 17,
+            "fullname": "Mathilde Lacombe",
+            "image_credit": "",
+            "profession": "Fondatrice de Birchbox",
+            "hotels_count": 11,
+            "category": {
+              "id": "8fe75088-10de-48b2-9d3d-aa62207be42a",
+              "slug": "entrepreneurs",
+              "name": "Entrepreneurs"
+            },
+            "image": {
+              "large": "https://staging.grandnumero.com/uploads/store/influencer/db36c50b-4aaf-42b4-9ce7-539a898cb9c9/image/large-ec056a8e5b531876c84a48dc0220bd97.jpg",
+              "medium": "https://staging.grandnumero.com/uploads/store/influencer/db36c50b-4aaf-42b4-9ce7-539a898cb9c9/image/medium-043aa6eee47afb9310ab8fdb7c04caa2.jpg",
+              "small": "https://staging.grandnumero.com/uploads/store/influencer/db36c50b-4aaf-42b4-9ce7-539a898cb9c9/image/small-9c8ecde366dc15093152a7914c41a01b.jpg"
+            }
+          },
+          {
+            "id": "1d3da0e5-d3fb-4ad4-aef5-d33b5cd6c585",
+            "slug": "romain-colin",
+            "number": 51,
+            "fullname": "Romain  Colin",
+            "image_credit": "",
+            "profession": "Fondateur et Directeur artistique de Fubiz",
+            "hotels_count": 10,
+            "category": {
+              "id": "8fe75088-10de-48b2-9d3d-aa62207be42a",
+              "slug": "entrepreneurs",
+              "name": "Entrepreneurs"
+            },
+            "image": {
+              "large": "https://staging.grandnumero.com/uploads/store/influencer/1d3da0e5-d3fb-4ad4-aef5-d33b5cd6c585/image/large-e4463a70e921fc104f9d78d000ef8a72.jpg",
+              "medium": "https://staging.grandnumero.com/uploads/store/influencer/1d3da0e5-d3fb-4ad4-aef5-d33b5cd6c585/image/medium-8cae8f982fda74ac5d299387dd90e63f.jpg",
+              "small": "https://staging.grandnumero.com/uploads/store/influencer/1d3da0e5-d3fb-4ad4-aef5-d33b5cd6c585/image/small-9f0c88d2f81a6c606b74d786841c96e2.jpg"
+            }
+          }
+        ],
+        "min_price": 10800,
+        "geolocation": {
+          "latitude": 52.371861,
+          "longitude": 4.88757
+        },
+        "rooms": [
+          {
+            "id": "37162b0b-6c1c-451a-9ffa-1922e54c108b",
+            "name": "Chambre Économique avec lits jumeaux",
+            "surface": 12.0,
+            "max_persons": 2
+          },
+          {
+            "id": "3fd9c94f-e645-4d10-a807-17575a40c088",
+            "name": "Chambre Double Premium",
+            "surface": 24.0,
+            "max_persons": 2
+          },
+          {
+            "id": "6d11ed67-0900-4ae0-bb72-a0c8c776c818",
+            "name": "Chambre Double Standard, vue canal",
+            "surface": 17.0,
+            "max_persons": 2
+          },
+          {
+            "id": "6f391e2f-aea4-4f96-8f50-32dd2d821c9d",
+            "name": "Chambre Double Premium, vue canal",
+            "surface": 24.0,
+            "max_persons": 2
+          },
+          {
+            "id": "976e67f0-9390-4547-a9ec-898cdf8d73fa",
+            "name": "Chambre Double Standard",
+            "surface": 17.0,
+            "max_persons": 2
+          },
+          {
+            "id": "e588e344-07e7-4788-a393-633ed57d4cf7",
+            "name": "Chambre Simple",
+            "surface": 12.0,
+            "max_persons": 1
+          }
+        ],
+        "images": [
+          {
+            "id": "06a81991-7dbc-4cdd-9993-e9aa804b7986",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/06a81991-7dbc-4cdd-9993-e9aa804b7986/image/h_xlarge-fbc831b66a4aeb7c5f320c6a17ef9dfa.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/06a81991-7dbc-4cdd-9993-e9aa804b7986/image/h_large-19d95f6e2912759739b3b3df89a0518e.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/06a81991-7dbc-4cdd-9993-e9aa804b7986/image/h_medium-32bb0f9d7869ed76be864952f1da917a.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/06a81991-7dbc-4cdd-9993-e9aa804b7986/image/h_small-112ac11b1002c15af93baa2f3226f7d2.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/06a81991-7dbc-4cdd-9993-e9aa804b7986/image/v_xlarge-59c7ae5e74f4c52d6ec11097bec20834.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/06a81991-7dbc-4cdd-9993-e9aa804b7986/image/v_large-8e559f7edf478f10cd64c2fb4f89fea4.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/06a81991-7dbc-4cdd-9993-e9aa804b7986/image/v_medium-b18a61056cae2282fe0f3cf1e6cb600d.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/06a81991-7dbc-4cdd-9993-e9aa804b7986/image/v_small-b2002bd6cd1ec9e49a039d804f984886.jpg"
+          },
+          {
+            "id": "80c4530b-2ce1-48c5-9964-2d8c39cc8268",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/80c4530b-2ce1-48c5-9964-2d8c39cc8268/image/h_xlarge-ccbe7ec700d5ae11c5716f2426616d21.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/80c4530b-2ce1-48c5-9964-2d8c39cc8268/image/h_large-a2fca1770e2fd87b6c50d26ac15127c0.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/80c4530b-2ce1-48c5-9964-2d8c39cc8268/image/h_medium-69ec4aff5e9b02bc0d6d1c1678627cbc.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/80c4530b-2ce1-48c5-9964-2d8c39cc8268/image/h_small-bb1ebfba8628908c68adb6ccf707a1f0.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/80c4530b-2ce1-48c5-9964-2d8c39cc8268/image/v_xlarge-2401a306cfd1ef789396595cbb70d8bd.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/80c4530b-2ce1-48c5-9964-2d8c39cc8268/image/v_large-a45da37cfdb5b00b9874e36398a4b6c0.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/80c4530b-2ce1-48c5-9964-2d8c39cc8268/image/v_medium-2f01b43979c53dc997c3de4f3b8c34c0.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/80c4530b-2ce1-48c5-9964-2d8c39cc8268/image/v_small-e044a2bea798d8160044079a095d2143.jpg"
+          },
+          {
+            "id": "4e0682c9-8a87-47dc-9e76-39fa82059ec7",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/4e0682c9-8a87-47dc-9e76-39fa82059ec7/image/h_xlarge-b1e0a42820cb9201415fdf2a2748c72a.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/4e0682c9-8a87-47dc-9e76-39fa82059ec7/image/h_large-06d1b50ac76fc28173ac08a84fd399bf.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/4e0682c9-8a87-47dc-9e76-39fa82059ec7/image/h_medium-acc18ee0c28319d5b5a01c5d1a7f506e.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/4e0682c9-8a87-47dc-9e76-39fa82059ec7/image/h_small-89efe12a14716c37990821f3e65e64be.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/4e0682c9-8a87-47dc-9e76-39fa82059ec7/image/v_xlarge-e1848da616797f6a9a92ff4c3c0ef3e2.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/4e0682c9-8a87-47dc-9e76-39fa82059ec7/image/v_large-e2da9bac21b11e1a713920f1d8b9bff9.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/4e0682c9-8a87-47dc-9e76-39fa82059ec7/image/v_medium-a2c1e47332e1f8fabf8f14595fe6a461.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/4e0682c9-8a87-47dc-9e76-39fa82059ec7/image/v_small-1a281686c429a1529b6f407d29865a36.jpg"
+          },
+          {
+            "id": "90f5c22d-4c6e-4113-a7b1-9ce3d9404085",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/90f5c22d-4c6e-4113-a7b1-9ce3d9404085/image/h_xlarge-6b45dc3e0cd43b3e9e3e208db7d0417c.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/90f5c22d-4c6e-4113-a7b1-9ce3d9404085/image/h_large-25a834213da7ee7585961ae923ecce2d.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/90f5c22d-4c6e-4113-a7b1-9ce3d9404085/image/h_medium-0cb47752f97a498c7fe2eca8b6a38494.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/90f5c22d-4c6e-4113-a7b1-9ce3d9404085/image/h_small-ffd887ba71fa439416727d3af132b855.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/90f5c22d-4c6e-4113-a7b1-9ce3d9404085/image/v_xlarge-c2fe457f09263b7a95a3a85414068e53.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/90f5c22d-4c6e-4113-a7b1-9ce3d9404085/image/v_large-959e674a75b5dfc210aa8bdc7c656a56.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/90f5c22d-4c6e-4113-a7b1-9ce3d9404085/image/v_medium-7c3602fd6bd71caf0d8ffee387092bdd.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/90f5c22d-4c6e-4113-a7b1-9ce3d9404085/image/v_small-d4a52cbde6bcf4b483f7115608b96b82.jpg"
+          },
+          {
+            "id": "7879b991-f29d-4d4d-b749-f2787c3a33e4",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/7879b991-f29d-4d4d-b749-f2787c3a33e4/image/h_xlarge-904f9e49f8746abe6db5c150454dd606.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/7879b991-f29d-4d4d-b749-f2787c3a33e4/image/h_large-fe356a8c2dd2c65850844b423cd316fa.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/7879b991-f29d-4d4d-b749-f2787c3a33e4/image/h_medium-039470c75d8071bd01777839fdc9d36c.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/7879b991-f29d-4d4d-b749-f2787c3a33e4/image/h_small-6367d39e996fcb28840aa76752fcb354.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/7879b991-f29d-4d4d-b749-f2787c3a33e4/image/v_xlarge-51a019884cba298f2541b05f36341562.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/7879b991-f29d-4d4d-b749-f2787c3a33e4/image/v_large-2381a7b5ebda70248a6c6c825631da15.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/7879b991-f29d-4d4d-b749-f2787c3a33e4/image/v_medium-544304a5b4f11d232049c8b323c5a9a7.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/7879b991-f29d-4d4d-b749-f2787c3a33e4/image/v_small-a6c4485d9a2935497c9a8cd11de48e04.jpg"
+          }
+        ]
+      },
+      {
+        "id": "37f79845-c013-4be0-bd15-7d476796850c",
+        "slug": "conservatorium-hotel",
+        "name": "Conservatorium Hotel",
+        "description": "Idéalement situé dans le quartier des musées, au cœur de la vie culturelle d'Amsterdam, le Conservatorium est un chef d'œuvre architectural, qui allie le prestige d'un édifice ancien au raffinement d'un design contemporain. Plusieurs bars et restaurants attendent les hôtes, qui pourront également se détendre dans le centre de bien-être Akasha. Le célèbre architecte d'intérieur Piero Lissoni a réussi à sublimer les intérieurs Art Nouveau de l'hôtel : spacieuses et baignées de lumière, les suites et les chambres associent des éléments d’architecture classique à des matières, couleurs et technologies contemporaines dans la plus raffinée des harmonies.",
+        "affiliate_booking_url": "https://www.booking.com/hotel/nl/conservatorium-amsterdam.fr.html?aid=1307822",
+        "address": "Van Baerlestraat 27",
+        "address_complement": "",
+        "zipcode": "1071 AN",
+        "phone_number": "+31 20 570 0000",
+        "influencers": [
+          {
+            "id": "63c8fe6b-61bb-4d11-965c-91228868bb50",
+            "slug": "julian-meijer",
+            "number": 56,
+            "fullname": "Julian Meijer",
+            "image_credit": "",
+            "profession": "Directeur de l'agence Julian Meijer Agency",
+            "hotels_count": 3,
+            "category": {
+              "id": "8fe75088-10de-48b2-9d3d-aa62207be42a",
+              "slug": "entrepreneurs",
+              "name": "Entrepreneurs"
+            },
+            "image": {
+              "large": "https://staging.grandnumero.com/uploads/store/influencer/63c8fe6b-61bb-4d11-965c-91228868bb50/image/large-d5d0a8a745407531986438dbcc114d06.jpg",
+              "medium": "https://staging.grandnumero.com/uploads/store/influencer/63c8fe6b-61bb-4d11-965c-91228868bb50/image/medium-46a6e78a4f43ba7ee40c48f6efc43d61.jpg",
+              "small": "https://staging.grandnumero.com/uploads/store/influencer/63c8fe6b-61bb-4d11-965c-91228868bb50/image/small-51ef222d4bd5dde05c760b844f2d0799.jpg"
+            }
+          }
+        ],
+        "min_price": 32400,
+        "geolocation": {
+          "latitude": 52.358607,
+          "longitude": 4.878563
+        },
+        "rooms": [
+          {
+            "id": "3e773ccc-3c43-4f82-90ff-402ca08ff4c0",
+            "name": "Suite Duplex Royal",
+            "surface": 72.0,
+            "max_persons": 2
+          },
+          {
+            "id": "2847b165-032a-496a-9018-a9faf882d45d",
+            "name": "Suite Conservatorium - Balcon",
+            "surface": 72.0,
+            "max_persons": 2
+          },
+          {
+            "id": "2d2dc3c6-4a2c-4653-af07-32b160fd250e",
+            "name": "Suite Van Baerle",
+            "surface": 64.0,
+            "max_persons": 2
+          },
+          {
+            "id": "d3db465f-91f3-41a9-9bb9-123a64da52ed",
+            "name": "Suite Penthouse",
+            "surface": 170.0,
+            "max_persons": 2
+          },
+          {
+            "id": "32336fda-851c-4501-8d37-29cc65429f12",
+            "name": "Concerto Two Bedrooms Suite",
+            "surface": 142.0,
+            "max_persons": 2
+          },
+          {
+            "id": "e69f0b37-4ad9-4402-9583-5805ace98b7a",
+            "name": "Chambre Duplex",
+            "surface": 25.0,
+            "max_persons": 2
+          },
+          {
+            "id": "2cf5380b-90c5-4efb-8a82-406695c7b00e",
+            "name": "Suite Junior",
+            "surface": 52.0,
+            "max_persons": 2
+          },
+          {
+            "id": "a63eb2be-c068-4a59-b30f-2ab6108c78e2",
+            "name": "Suite Duplex",
+            "surface": 52.0,
+            "max_persons": 2
+          },
+          {
+            "id": "8d9274e6-8f1e-4a82-812e-e37522ad2ece",
+            "name": "Chambre simple supérieure",
+            "surface": 25.0,
+            "max_persons": 2
+          },
+          {
+            "id": "67c67d4d-de50-459a-b942-934e1b66acb3",
+            "name": "Suite Conservatorium",
+            "surface": 70.0,
+            "max_persons": 2
+          },
+          {
+            "id": "5293d615-fb70-4a36-b316-7734fe56bd85",
+            "name": "Chambre Duplex Deluxe, 1 très grand lit",
+            "surface": 32.0,
+            "max_persons": 2
+          },
+          {
+            "id": "2c74d346-d22b-4214-b147-9d101a7a035e",
+            "name": "Suite Residence",
+            "surface": 53.0,
+            "max_persons": 2
+          },
+          {
+            "id": "2051383b-44b4-402a-bd83-4feac936db01",
+            "name": "Suite I love Amsterdam",
+            "surface": 155.0,
+            "max_persons": 2
+          },
+          {
+            "id": "b20def12-7d0d-4a62-bb50-9ba87752d79b",
+            "name": "Chambre Deluxe",
+            "surface": 35.0,
+            "max_persons": 2
+          },
+          {
+            "id": "73af0561-4497-4adb-a41a-08c6139ac2ee",
+            "name": "Chambre Deluxe, 1 très grand lit",
+            "surface": 35.0,
+            "max_persons": 2
+          },
+          {
+            "id": "83b4ed38-7748-41bf-96f0-03e319ed8b9b",
+            "name": "Suite Duplex Grand",
+            "surface": 55.0,
+            "max_persons": 2
+          },
+          {
+            "id": "61dcaecd-cb1e-4b67-9027-22ae3269ea80",
+            "name": "Suite Royale",
+            "surface": 72.0,
+            "max_persons": 2
+          },
+          {
+            "id": "049b006f-61a7-4ffd-a87e-82182fbef75d",
+            "name": "Suite Rooftop",
+            "surface": 64.0,
+            "max_persons": 2
+          }
+        ],
+        "images": [
+          {
+            "id": "0139414d-dfa2-49d8-a227-91a10c21fc97",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/0139414d-dfa2-49d8-a227-91a10c21fc97/image/h_xlarge-c47e8562c4ec5e083646053fb633023d.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/0139414d-dfa2-49d8-a227-91a10c21fc97/image/h_large-14c25094e35740b9e71238e9d264ecbc.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/0139414d-dfa2-49d8-a227-91a10c21fc97/image/h_medium-3d7cdd5ed7d46525561f459741557408.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/0139414d-dfa2-49d8-a227-91a10c21fc97/image/h_small-f228a296c90ec3f4776b4f6ca8b7de36.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/0139414d-dfa2-49d8-a227-91a10c21fc97/image/v_xlarge-857a6489772e5c4869fc2277051e8e36.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/0139414d-dfa2-49d8-a227-91a10c21fc97/image/v_large-b6ccd51210a9496400bb7b21c27655f3.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/0139414d-dfa2-49d8-a227-91a10c21fc97/image/v_medium-6acaf34f54437dac0ac92610f82d43e6.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/0139414d-dfa2-49d8-a227-91a10c21fc97/image/v_small-438931964735413221f04ad7111453a2.jpg"
+          },
+          {
+            "id": "e02fe444-6c60-456c-9c7d-936861744688",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/e02fe444-6c60-456c-9c7d-936861744688/image/h_xlarge-b011fcfd2d11475fc6c91159d4e2ca46.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/e02fe444-6c60-456c-9c7d-936861744688/image/h_large-ebea589f7e900a8d029a92d4f4c86fb0.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/e02fe444-6c60-456c-9c7d-936861744688/image/h_medium-ab3404f83941501db702b8342380f1e0.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/e02fe444-6c60-456c-9c7d-936861744688/image/h_small-3bbf28fe7acdf907ac315331654fded7.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/e02fe444-6c60-456c-9c7d-936861744688/image/v_xlarge-8895a5ea8c83fa2a457a976139be3cc5.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/e02fe444-6c60-456c-9c7d-936861744688/image/v_large-77100aa434224885fa4d962080b1297a.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/e02fe444-6c60-456c-9c7d-936861744688/image/v_medium-140a08f52d3c5be4e69d39e03709e559.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/e02fe444-6c60-456c-9c7d-936861744688/image/v_small-71c2f9393dd2b8ec58af6ededbf719fd.jpg"
+          },
+          {
+            "id": "238587f6-1d6b-462a-8718-34fea075041a",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/238587f6-1d6b-462a-8718-34fea075041a/image/h_xlarge-3409162a3b3a2e8023b8932711416cef.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/238587f6-1d6b-462a-8718-34fea075041a/image/h_large-f851490bfe00e3fe6199c31f303cc30e.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/238587f6-1d6b-462a-8718-34fea075041a/image/h_medium-7c69617326294bbf2e6506dd14efe3e9.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/238587f6-1d6b-462a-8718-34fea075041a/image/h_small-05d78742f03658e4715a1df06dc0599a.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/238587f6-1d6b-462a-8718-34fea075041a/image/v_xlarge-13f17bb5377b171da1b7377e357c7094.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/238587f6-1d6b-462a-8718-34fea075041a/image/v_large-903ac83acdb1df5d7dff1dae9eab21d1.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/238587f6-1d6b-462a-8718-34fea075041a/image/v_medium-763404ab01c230b28474629b0710a372.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/238587f6-1d6b-462a-8718-34fea075041a/image/v_small-2f4e6ddc21b235c2b6c7615f4c580fd1.jpg"
+          },
+          {
+            "id": "89f0345c-c909-4038-9014-678ea1db0421",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/89f0345c-c909-4038-9014-678ea1db0421/image/h_xlarge-02623213d712d9174cd07b640e9240e4.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/89f0345c-c909-4038-9014-678ea1db0421/image/h_large-f2b7e805200ec446266e22b119186928.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/89f0345c-c909-4038-9014-678ea1db0421/image/h_medium-d892eb20ba68c394b0bc0821cdf9d59f.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/89f0345c-c909-4038-9014-678ea1db0421/image/h_small-93adcf67660b421fe8730e155baa2b33.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/89f0345c-c909-4038-9014-678ea1db0421/image/v_xlarge-35242d34af6b571ab69e1ab9f0422d51.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/89f0345c-c909-4038-9014-678ea1db0421/image/v_large-a0fe08d55ec204baa3061bb0421ccb71.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/89f0345c-c909-4038-9014-678ea1db0421/image/v_medium-efaa733773189fa62a7e797ab53ba298.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/89f0345c-c909-4038-9014-678ea1db0421/image/v_small-d4a29ff23c1d2a9fa97cb7b6b3daa598.jpg"
+          },
+          {
+            "id": "8102f965-b624-43ca-88c1-a31ef38614c2",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/8102f965-b624-43ca-88c1-a31ef38614c2/image/h_xlarge-fb4badcc8a54a64eebd44c7ec77488ab.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/8102f965-b624-43ca-88c1-a31ef38614c2/image/h_large-b7e59b08aff27e733a5c046614bbf9eb.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/8102f965-b624-43ca-88c1-a31ef38614c2/image/h_medium-832db33718dee23af728663128b7adf5.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/8102f965-b624-43ca-88c1-a31ef38614c2/image/h_small-e7e899019db4ef8512402c9c43d57a6e.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/8102f965-b624-43ca-88c1-a31ef38614c2/image/v_xlarge-aaa641ef4adb16257cd8ed6725bd2bb5.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/8102f965-b624-43ca-88c1-a31ef38614c2/image/v_large-f2e7c930d5864351e0f6fe27185b73d0.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/8102f965-b624-43ca-88c1-a31ef38614c2/image/v_medium-4686ffccd88cdb91b521f1a4b2874968.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/8102f965-b624-43ca-88c1-a31ef38614c2/image/v_small-e7a0ac15cdd36651b793657d2343028e.jpg"
+          },
+          {
+            "id": "c1ac58cc-2680-4350-b865-5db1184cfb2b",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/c1ac58cc-2680-4350-b865-5db1184cfb2b/image/h_xlarge-bb7b810da0e07a1aefc8e4e2c8761efa.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/c1ac58cc-2680-4350-b865-5db1184cfb2b/image/h_large-709d3b35a9c9fe8dac59cb2e41162445.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/c1ac58cc-2680-4350-b865-5db1184cfb2b/image/h_medium-46655d71360cea7ee7122521f767b582.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/c1ac58cc-2680-4350-b865-5db1184cfb2b/image/h_small-52b3bae96cb9729a7170c01a644047e2.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/c1ac58cc-2680-4350-b865-5db1184cfb2b/image/v_xlarge-7d7649341046a1d7da9e153967f5e5ca.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/c1ac58cc-2680-4350-b865-5db1184cfb2b/image/v_large-ad7d9d498c45b70a9f4f9e9a33dac235.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/c1ac58cc-2680-4350-b865-5db1184cfb2b/image/v_medium-56c3dabe0780ceec14e44f19942234ff.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/c1ac58cc-2680-4350-b865-5db1184cfb2b/image/v_small-e2c55fe71b64b50756fa132dd99a06b0.jpg"
+          },
+          {
+            "id": "138a29ee-67b1-43b6-b126-782cdb09ec98",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/138a29ee-67b1-43b6-b126-782cdb09ec98/image/h_xlarge-cb1ff58a57dcd0eb3651b3ccde687155.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/138a29ee-67b1-43b6-b126-782cdb09ec98/image/h_large-dc3d064ab6509dc38ec64a9d9fd77570.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/138a29ee-67b1-43b6-b126-782cdb09ec98/image/h_medium-90eea8d167fae15d70fba08c66bf9165.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/138a29ee-67b1-43b6-b126-782cdb09ec98/image/h_small-7db8e56f3fbf7c1afd859bb154d8c149.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/138a29ee-67b1-43b6-b126-782cdb09ec98/image/v_xlarge-f3d8af25cb56e3230e8f5c2a20b03731.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/138a29ee-67b1-43b6-b126-782cdb09ec98/image/v_large-f590cef3cd3a79988256e369fd0a22ba.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/138a29ee-67b1-43b6-b126-782cdb09ec98/image/v_medium-7bfbdc50032b51833b85d3d38d63b31b.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/138a29ee-67b1-43b6-b126-782cdb09ec98/image/v_small-4bd0c291ac06c0fc8e5ee7ddc6f4946e.jpg"
+          }
+        ]
+      },
+      {
+        "id": "e3e078a4-5104-436c-9404-4a6389d0792c",
+        "slug": "hotel-twenty-eight",
+        "name": "Hotel Twenty Eight",
+        "description": "L'Hôtel Twenty Eight est un établissement unique, situé dans la banlieue sud, proposant un nouveau concept d’appart'hôtel avec des appartements design spacieux et confortables, combinés avec le service et les installations d'un hôtel de luxe. Il possède un restaurant sur place, un sauna et une salle de sport. ",
+        "affiliate_booking_url": "https://www.booking.com/hotel/nl/twenty-eight-by-city-id-suites.fr.html?aid=1307822",
+        "address": "Stadionplein 260",
+        "address_complement": "",
+        "zipcode": "1076 CK",
+        "phone_number": "+31 20 705 1700",
+        "influencers": [],
+        "min_price": 13400,
+        "geolocation": {
+          "latitude": 52.34399,
+          "longitude": 4.85778
+        },
+        "rooms": [
+          {
+            "id": "c93ffd15-8f59-4b10-9881-1865759a2442",
+            "name": "Studio Apartment",
+            "surface": 29.0,
+            "max_persons": 2
+          },
+          {
+            "id": "a86cc6f6-850d-42bd-ba09-639259a6b6bc",
+            "name": "Executive Apartment",
+            "surface": 38.0,
+            "max_persons": 2
+          },
+          {
+            "id": "10f72f3b-82e8-467c-9697-17424ed8b9f3",
+            "name": "Two Bedroom Apartment",
+            "surface": 60.0,
+            "max_persons": 4
+          }
+        ],
+        "images": [
+          {
+            "id": "8a16c7e7-4a7a-4d6e-820d-f1902bbde31c",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/8a16c7e7-4a7a-4d6e-820d-f1902bbde31c/image/h_xlarge-bf4dbb9d7788b4c5d491354640c083e4.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/8a16c7e7-4a7a-4d6e-820d-f1902bbde31c/image/h_large-16fcaae4e8289db79ca7ba1694b84bfe.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/8a16c7e7-4a7a-4d6e-820d-f1902bbde31c/image/h_medium-cc158c322c3a8c5f314341d2e51a2418.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/8a16c7e7-4a7a-4d6e-820d-f1902bbde31c/image/h_small-fcae50c769e492bd92ff9f1302cd2702.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/8a16c7e7-4a7a-4d6e-820d-f1902bbde31c/image/v_xlarge-2609f69a66054d5d9c180af7e0facf8a.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/8a16c7e7-4a7a-4d6e-820d-f1902bbde31c/image/v_large-9f6353e74d09c77bf4bcb089412680f9.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/8a16c7e7-4a7a-4d6e-820d-f1902bbde31c/image/v_medium-a56c56baa54b9545a0630d9c9f12cb9a.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/8a16c7e7-4a7a-4d6e-820d-f1902bbde31c/image/v_small-5d2055b2ce4be01e17f0f7520ddc434c.jpg"
+          },
+          {
+            "id": "322ac911-d956-4f25-b2d1-5dcecdd1a5a8",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/322ac911-d956-4f25-b2d1-5dcecdd1a5a8/image/h_xlarge-60b67422a4ad6d7552d042a810f8163a.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/322ac911-d956-4f25-b2d1-5dcecdd1a5a8/image/h_large-2fc00b9ca9393c9617ebfc2ad6fb4ae7.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/322ac911-d956-4f25-b2d1-5dcecdd1a5a8/image/h_medium-42e324a2275a085898c37db3e8779230.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/322ac911-d956-4f25-b2d1-5dcecdd1a5a8/image/h_small-d8cfd54bd7ff598f86b1a54e062a32dc.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/322ac911-d956-4f25-b2d1-5dcecdd1a5a8/image/v_xlarge-041a0cbc9e4429f45e099f3901c07883.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/322ac911-d956-4f25-b2d1-5dcecdd1a5a8/image/v_large-cf9eff61ea507ffb35d6259b5b8a5da7.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/322ac911-d956-4f25-b2d1-5dcecdd1a5a8/image/v_medium-64cd5e5773449e8843a6c0ca9e6b29b8.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/322ac911-d956-4f25-b2d1-5dcecdd1a5a8/image/v_small-c2c06ffa90e28395f290d2871884b628.jpg"
+          },
+          {
+            "id": "7fc36a10-00b3-4277-9133-1f00e41b7be9",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/7fc36a10-00b3-4277-9133-1f00e41b7be9/image/h_xlarge-5a381091a7fc20d3be7a7fac83e83236.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/7fc36a10-00b3-4277-9133-1f00e41b7be9/image/h_large-981421885dbc3dc69fc75f476be88212.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/7fc36a10-00b3-4277-9133-1f00e41b7be9/image/h_medium-debc17bccd98971fc5e57736321a7e9c.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/7fc36a10-00b3-4277-9133-1f00e41b7be9/image/h_small-f344e75b2360612cbb37dc401792047e.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/7fc36a10-00b3-4277-9133-1f00e41b7be9/image/v_xlarge-5a629174cbfa06b3793178855c86bcbb.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/7fc36a10-00b3-4277-9133-1f00e41b7be9/image/v_large-5b3970cebb26a488c4dc9f9f62e0f3fb.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/7fc36a10-00b3-4277-9133-1f00e41b7be9/image/v_medium-23c5853ffe614f89f5f4593f6032742c.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/7fc36a10-00b3-4277-9133-1f00e41b7be9/image/v_small-c2a617ea5c1486af4d5fa016af75ef92.jpg"
+          },
+          {
+            "id": "ebf609b4-8c67-491b-ae4a-38f67add53cd",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/ebf609b4-8c67-491b-ae4a-38f67add53cd/image/h_xlarge-412bf6a6c97c7de83bc97a0d62598cf4.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/ebf609b4-8c67-491b-ae4a-38f67add53cd/image/h_large-c32fd093b2398e094ef0613f85a051f3.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/ebf609b4-8c67-491b-ae4a-38f67add53cd/image/h_medium-c51966f42c11315c11676b92e7ab0d11.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/ebf609b4-8c67-491b-ae4a-38f67add53cd/image/h_small-493b82e017976a1b0c5d9736c738f020.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/ebf609b4-8c67-491b-ae4a-38f67add53cd/image/v_xlarge-5eaedefee6a00752ebeae686035dab3a.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/ebf609b4-8c67-491b-ae4a-38f67add53cd/image/v_large-cf0ca0e60c80ab07fa03c580e1b48d62.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/ebf609b4-8c67-491b-ae4a-38f67add53cd/image/v_medium-ded3c44f26cff52ecf000ee5babf8b7f.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/ebf609b4-8c67-491b-ae4a-38f67add53cd/image/v_small-7f45cc14c6122cf31721fa9f403f74d1.jpg"
+          },
+          {
+            "id": "3df512a0-4ad8-4189-9639-d4d6fd0e8cbf",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/3df512a0-4ad8-4189-9639-d4d6fd0e8cbf/image/h_xlarge-a125792d2f8c7466b2f528295f008d00.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/3df512a0-4ad8-4189-9639-d4d6fd0e8cbf/image/h_large-e15aad274c49f6ca58de3b155d5ec2b7.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/3df512a0-4ad8-4189-9639-d4d6fd0e8cbf/image/h_medium-01108777f93dfb04036bb1dee1229b0b.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/3df512a0-4ad8-4189-9639-d4d6fd0e8cbf/image/h_small-dbc0daec7512d348f10f7c6930755db2.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/3df512a0-4ad8-4189-9639-d4d6fd0e8cbf/image/v_xlarge-56db5cab9f1fffbb606b40d7aa0489c5.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/3df512a0-4ad8-4189-9639-d4d6fd0e8cbf/image/v_large-3f6a88bcf3776f06dfbfeb9ba31d8a2f.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/3df512a0-4ad8-4189-9639-d4d6fd0e8cbf/image/v_medium-9fb95f22608e0f245ea76213d0be8522.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/3df512a0-4ad8-4189-9639-d4d6fd0e8cbf/image/v_small-16e98abfbec4edf178c0a0d6221f2abf.jpg"
+          }
+        ]
+      },
+      {
+        "id": "4a143093-0340-4db8-a227-f3e5d7c4fc68",
+        "slug": "kimpton-de-witt",
+        "name": "Kimpton De Witt",
+        "description": "Le Kimpton De Witt Hotel propose une approche moderne du luxe, avec des chambres au design raffiné mais épuré et des espaces empreints du design néerlandais. Niché au cœur du centre-ville prospère d'Amsterdam, ce charmant boutique hotel vous invite à imaginer, explorer et se détendre dans un cadre agréable. ",
+        "affiliate_booking_url": "https://www.booking.com/hotel/nl/cpamsterdamcentre.fr.html?aid=1307822",
+        "address": "Nieuwezijds Voorburgwal 5",
+        "address_complement": "",
+        "zipcode": "1012",
+        "phone_number": "+31 20 620 0500",
+        "influencers": [],
+        "min_price": 16400,
+        "geolocation": {
+          "latitude": 52.37727,
+          "longitude": 4.896
+        },
+        "rooms": [
+          {
+            "id": "037286d5-dca0-44b3-9e37-a6df29a664ee",
+            "name": "Chambre Deluxe, 1 très grand lit",
+            "surface": 23.5,
+            "max_persons": 2
+          },
+          {
+            "id": "15ff45bd-8b7f-4ea2-8f0c-235c86c0a660",
+            "name": "Chambre Supérieure, 1 lit une place, non-fumeur",
+            "surface": 12.0,
+            "max_persons": 1
+          },
+          {
+            "id": "17abe692-1fe3-4386-bcc7-7110ba9e0e30",
+            "name": "Chambre Supérieure, 1 très grand lit, non-fumeur",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "2226ea2f-f8c1-4332-961b-26bb8b0d86a6",
+            "name": "Chambre Exécutive, 1 très grand lit",
+            "surface": 31.0,
+            "max_persons": 2
+          },
+          {
+            "id": "25fe0805-21eb-440a-84db-7b74085f547e",
+            "name": "Suite Junior, non-fumeur",
+            "surface": 35.0,
+            "max_persons": 2
+          },
+          {
+            "id": "272937aa-db2e-43d8-bed0-cb3b1a65539d",
+            "name": "Suite Junior, 1 très grand lit",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "2943d4cf-f5d6-40e8-88f9-c6439d2c1865",
+            "name": "Chambre Deluxe, 2 lits une place",
+            "surface": 23.5,
+            "max_persons": 2
+          },
+          {
+            "id": "30051cdd-78ff-4ed8-bff4-cfbcc1d05a33",
+            "name": "Chambre Deluxe",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "4091ccba-7df4-45af-b1e1-534b9bc18cdd",
+            "name": "Chambre Standard, 1 lit double",
+            "surface": 18.0,
+            "max_persons": 1
+          },
+          {
+            "id": "688c1b14-a90e-45a3-9b4b-d2f273d85557",
+            "name": "Chambre Supérieure, 1 lit double, non-fumeur",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "721caed4-7b73-4e75-8ee7-5cb394194843",
+            "name": "Chambre Standard, 1 très grand lit",
+            "surface": 20.0,
+            "max_persons": 2
+          },
+          {
+            "id": "72a45812-0358-4cf3-a1ea-ef142c1d30a3",
+            "name": "Suite Exécutive, 1 très grand lit, non-fumeur",
+            "surface": 45.0,
+            "max_persons": 2
+          },
+          {
+            "id": "b0854d08-ef20-41c5-8577-a695abfd8826",
+            "name": "Supérieur Très grand lit.",
+            "surface": 25.0,
+            "max_persons": 2
+          },
+          {
+            "id": "b5100e8c-94b5-41b6-a339-111b12fef370",
+            "name": "Suite Junior, 1 très grand lit, non-fumeur",
+            "surface": 35.0,
+            "max_persons": 2
+          },
+          {
+            "id": "bbd7f76e-d139-469e-8df9-27f1131adc4f",
+            "name": "Chambre, 1 grand lit",
+            "surface": 18.0,
+            "max_persons": 2
+          },
+          {
+            "id": "c9be6249-53f1-49ce-b22a-9bdddd21fe51",
+            "name": "Chambre Exécutive",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "c7b55e34-a9b5-4e34-b06e-9cd1ae854b53",
+            "name": "Chambre Standard",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "e98dbb16-83f2-446b-a03c-72981035723a",
+            "name": "Chambre Deluxe, 2 lits doubles",
+            "surface": 29.0,
+            "max_persons": 4
+          },
+          {
+            "id": "f10da8ed-1331-454a-8dee-a9d231e06b17",
+            "name": "Chambre Club, 1 lit double ou 2 lits jumeaux, non-fumeur",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "f4750758-11cf-4417-aba7-a81349724590",
+            "name": "Studio, 1 très grand lit, terrasse",
+            "surface": 46.0,
+            "max_persons": 2
+          }
+        ],
+        "images": [
+          {
+            "id": "18304aeb-7b49-46b1-9834-ff3b56758d97",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/18304aeb-7b49-46b1-9834-ff3b56758d97/image/h_xlarge-c897519e09263c156186dbbebb05da5f.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/18304aeb-7b49-46b1-9834-ff3b56758d97/image/h_large-38693e10eaf83cc1fcae82823468e540.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/18304aeb-7b49-46b1-9834-ff3b56758d97/image/h_medium-2f7e4da51dddb6c44ad7272695d3edce.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/18304aeb-7b49-46b1-9834-ff3b56758d97/image/h_small-b3087b928a7e73b190cc95d4b1735d18.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/18304aeb-7b49-46b1-9834-ff3b56758d97/image/v_xlarge-c2b049d52bdcfb42855d6065eda383ad.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/18304aeb-7b49-46b1-9834-ff3b56758d97/image/v_large-4f59e1ebbf9bacf5fa98657c71402233.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/18304aeb-7b49-46b1-9834-ff3b56758d97/image/v_medium-edc9321827baa9e21728091f7c1eeceb.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/18304aeb-7b49-46b1-9834-ff3b56758d97/image/v_small-0ee1eb41f694e8e50520e7d22f3dfa6c.jpg"
+          },
+          {
+            "id": "019163a1-18f1-42b7-a917-f00f9874bf54",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/019163a1-18f1-42b7-a917-f00f9874bf54/image/h_xlarge-cdeae23942038ed06be855a97ded8fa9.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/019163a1-18f1-42b7-a917-f00f9874bf54/image/h_large-c77874589e0c776fef1f061139ad9b74.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/019163a1-18f1-42b7-a917-f00f9874bf54/image/h_medium-e831859e059bd07689f3fc22534cfe3e.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/019163a1-18f1-42b7-a917-f00f9874bf54/image/h_small-5969af510ebd82fb5433ac1de75e9d6b.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/019163a1-18f1-42b7-a917-f00f9874bf54/image/v_xlarge-4a0743bc651fbab7dcbf814b954b98e9.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/019163a1-18f1-42b7-a917-f00f9874bf54/image/v_large-fd61aa36d95444f2036a67da554a6add.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/019163a1-18f1-42b7-a917-f00f9874bf54/image/v_medium-d115b5efaca07d8a8f70d93813a230e6.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/019163a1-18f1-42b7-a917-f00f9874bf54/image/v_small-28307d57a925c4b884adf28ade472d71.jpg"
+          },
+          {
+            "id": "38677816-be20-4619-ae6c-7e230e88b2fa",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/38677816-be20-4619-ae6c-7e230e88b2fa/image/h_xlarge-50eb5ae416f9395c256bdbcc3311d466.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/38677816-be20-4619-ae6c-7e230e88b2fa/image/h_large-681679837485da38d80d2d8880474704.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/38677816-be20-4619-ae6c-7e230e88b2fa/image/h_medium-22a88aebfd7e9e6e1b7dfd2a774f60f6.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/38677816-be20-4619-ae6c-7e230e88b2fa/image/h_small-97983369682a7a30057e3db238e1991e.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/38677816-be20-4619-ae6c-7e230e88b2fa/image/v_xlarge-6ce3002029bc89d84bc6ec78540a8214.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/38677816-be20-4619-ae6c-7e230e88b2fa/image/v_large-666ce252b95221a68d82f80119cc9baa.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/38677816-be20-4619-ae6c-7e230e88b2fa/image/v_medium-f334f9c62257d47ce0c403d9b3d956cb.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/38677816-be20-4619-ae6c-7e230e88b2fa/image/v_small-5671a138c16f1c25bbd8530f89c98a0b.jpg"
+          },
+          {
+            "id": "4506f6f3-cd62-43e7-962e-e7f9bfba9f49",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/4506f6f3-cd62-43e7-962e-e7f9bfba9f49/image/h_xlarge-ca54f9fc0aed4b68c7fd5c8c3ff055df.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/4506f6f3-cd62-43e7-962e-e7f9bfba9f49/image/h_large-6228f4d064a2b98546befd81e6ab1e77.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/4506f6f3-cd62-43e7-962e-e7f9bfba9f49/image/h_medium-982b2842329fbc051e0e670b17bf59db.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/4506f6f3-cd62-43e7-962e-e7f9bfba9f49/image/h_small-d37a8d641d12bf97bf05df416e33516a.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/4506f6f3-cd62-43e7-962e-e7f9bfba9f49/image/v_xlarge-08f93bb54bf629a2859658c461deb2a0.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/4506f6f3-cd62-43e7-962e-e7f9bfba9f49/image/v_large-fd4abbae1d1890769a054b91499e062e.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/4506f6f3-cd62-43e7-962e-e7f9bfba9f49/image/v_medium-0b0e17962121a590d64a80982aa59a1c.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/4506f6f3-cd62-43e7-962e-e7f9bfba9f49/image/v_small-676c545ed43e2f9f8dfb39d72d030bf0.jpg"
+          },
+          {
+            "id": "d1a341b9-b549-42b2-9b4f-23061f6b8c70",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/d1a341b9-b549-42b2-9b4f-23061f6b8c70/image/h_xlarge-2dd996f07c9c8970cb720e42f0b84623.jpeg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/d1a341b9-b549-42b2-9b4f-23061f6b8c70/image/h_large-ec0cc8faba73e399f4b5c7b6d5624420.jpeg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/d1a341b9-b549-42b2-9b4f-23061f6b8c70/image/h_medium-4b8f09714caf5df69660002aca0baf78.jpeg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/d1a341b9-b549-42b2-9b4f-23061f6b8c70/image/h_small-531d0882c836f896b73aacdb22808343.jpeg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/d1a341b9-b549-42b2-9b4f-23061f6b8c70/image/v_xlarge-87914e67da0c38688bcc24fdaea66df5.jpeg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/d1a341b9-b549-42b2-9b4f-23061f6b8c70/image/v_large-fe65c082210bcd8d2b4e619646f8d2bc.jpeg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/d1a341b9-b549-42b2-9b4f-23061f6b8c70/image/v_medium-b5fb3d7be676477a59304a9cba775cfa.jpeg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/d1a341b9-b549-42b2-9b4f-23061f6b8c70/image/v_small-b4e2bd5acc11dd5b4a8579ed4e1dce16.jpeg"
+          }
+        ]
+      },
+      {
+        "id": "655f1cfa-686e-481d-9db0-d5c040921101",
+        "slug": "pillows-anna-van-den-vondel",
+        "name": "Pillows Anna van den Vondel",
+        "description": "Pillows Anna Van den Vondel a ouvert en janvier 2017 après une rénovation complète. Cette propriété du 19ème siècle se niche dans une rue élégante et tranquille juste à côté du Vondelpark. Après une longue journée passée à explorer les lieux emblématiques d'Amsterdam, venez reprendre votre souffle et échapper à l'agitation de la ville dans le jardin privé de l'hôtel. Habillées de couleurs naturelles et de tissus chaleureux, les 31 chambres et suites disposent de grandes fenêtres et offrent une vue sur la ville ou le jardin privé. Certaines chambres ont même leur propre terrasse ou balcon. Enfin, sous la véranda lumineuse, venez vous détendre dans l'un des confortables fauteuils du salon le Living, lieu de rencontre inspirant et convivial au coeur de l'hôtel. Les clients sont invités à prendre un verre avant le dîner, à se retrouver entre amis ou à se détendre après une longue journée passée à explorer Amsterdam.",
+        "affiliate_booking_url": "https://www.booking.com/hotel/nl/pillows-anna-van-den-vondel.fr.html?aid=1307822",
+        "address": "Anna van Den Vondelstraat 6",
+        "address_complement": "",
+        "zipcode": "1054 GZ ",
+        "phone_number": "+31 20 683 3013",
+        "influencers": [
+          {
+            "id": "29f57925-4923-4ff2-897a-cd38598d4a1f",
+            "slug": "virginie-benarroch",
+            "number": 28,
+            "fullname": "Virginie Benarroch",
+            "image_credit": "",
+            "profession": "Fashion Editor",
+            "hotels_count": 7,
+            "category": {
+              "id": "ae584e63-6a0f-425c-a615-8b25967a956b",
+              "slug": "journalistes",
+              "name": "Journalistes"
+            },
+            "image": {
+              "large": "https://staging.grandnumero.com/uploads/store/influencer/29f57925-4923-4ff2-897a-cd38598d4a1f/image/large-ae3ace1ec3249ec5888726e65c61fe8f.jpg",
+              "medium": "https://staging.grandnumero.com/uploads/store/influencer/29f57925-4923-4ff2-897a-cd38598d4a1f/image/medium-2821e1501db592a6c7698b3d373f3035.jpg",
+              "small": "https://staging.grandnumero.com/uploads/store/influencer/29f57925-4923-4ff2-897a-cd38598d4a1f/image/small-01c14530cd1e2fa6c8a1a28a6d8b2c14.jpg"
+            }
+          }
+        ],
+        "min_price": 17500,
+        "geolocation": {
+          "latitude": 52.36078,
+          "longitude": 4.869681
+        },
+        "rooms": [
+          {
+            "id": "2a30e8e2-c771-4e39-b0f1-017602c587f5",
+            "name": "Pillows Suite",
+            "surface": 48.0,
+            "max_persons": 2
+          },
+          {
+            "id": "633ec27d-beb4-4594-8294-424210efba9e",
+            "name": "Luxury Room Small",
+            "surface": 15.0,
+            "max_persons": 2
+          },
+          {
+            "id": "747919a0-61e0-432b-989b-a8b29ed9a5a8",
+            "name": "Chambre Deluxe",
+            "surface": 23.0,
+            "max_persons": 2
+          },
+          {
+            "id": "7e59a956-f63a-4f34-8597-072737ba89f8",
+            "name": "Grand Deluxe Room",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "8aa5e55e-04e1-4248-99eb-1ee9161cd123",
+            "name": "Luxury Room Middle",
+            "surface": null,
+            "max_persons": 2
+          },
+          {
+            "id": "eda4c160-75d8-4707-8646-6953a78cdd48",
+            "name": "Luxury Room Grand",
+            "surface": null,
+            "max_persons": 2
+          }
+        ],
+        "images": [
+          {
+            "id": "f7ea6a0d-48f4-49c5-99b9-35a211d35112",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/f7ea6a0d-48f4-49c5-99b9-35a211d35112/image/h_xlarge-bf1b97bdf2a3587d795cd0c72675739a.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/f7ea6a0d-48f4-49c5-99b9-35a211d35112/image/h_large-e3e221cd9db271251e95c1c97bbd815b.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/f7ea6a0d-48f4-49c5-99b9-35a211d35112/image/h_medium-9362c8c3f005c6d6a77bbdba47173f5b.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/f7ea6a0d-48f4-49c5-99b9-35a211d35112/image/h_small-1fac7a05d292dc79fea3b25bcd305d90.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/f7ea6a0d-48f4-49c5-99b9-35a211d35112/image/v_xlarge-c982ec86dc481bed6bd671ed3b815086.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/f7ea6a0d-48f4-49c5-99b9-35a211d35112/image/v_large-38d38be2d2f5d15d5cc9a204297e7118.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/f7ea6a0d-48f4-49c5-99b9-35a211d35112/image/v_medium-e2fb8d5242ee1064def712a57e2678b5.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/f7ea6a0d-48f4-49c5-99b9-35a211d35112/image/v_small-b832a903ebb1f5f6955948cccc2b2897.jpg"
+          },
+          {
+            "id": "8c7830f7-6cc9-44e4-8e2f-738d7657be69",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/8c7830f7-6cc9-44e4-8e2f-738d7657be69/image/h_xlarge-d289398969fb2fac77cd43326af61f75.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/8c7830f7-6cc9-44e4-8e2f-738d7657be69/image/h_large-016aed64dfc1b6a046e2707cf14b6d32.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/8c7830f7-6cc9-44e4-8e2f-738d7657be69/image/h_medium-0a96a7f66c295c0b449523e9a97aa62a.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/8c7830f7-6cc9-44e4-8e2f-738d7657be69/image/h_small-41b7bac25ba6b47b662f1ec1d4955eb2.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/8c7830f7-6cc9-44e4-8e2f-738d7657be69/image/v_xlarge-985ac583ec33ba4ab4f3476ad5631415.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/8c7830f7-6cc9-44e4-8e2f-738d7657be69/image/v_large-bf4e26549de4021ec1e98141fda4d983.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/8c7830f7-6cc9-44e4-8e2f-738d7657be69/image/v_medium-9edf1ea3975274095ff51aab0bd2ed32.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/8c7830f7-6cc9-44e4-8e2f-738d7657be69/image/v_small-21bac7f614edce488df48cb06022c336.jpg"
+          },
+          {
+            "id": "59828508-563c-4ad8-af30-939d3194bbad",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/59828508-563c-4ad8-af30-939d3194bbad/image/h_xlarge-5efed8be33c4a8e9b22d81ed65ecd45c.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/59828508-563c-4ad8-af30-939d3194bbad/image/h_large-0071cc727dc731c61e4d0e5159a384ba.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/59828508-563c-4ad8-af30-939d3194bbad/image/h_medium-56cbfbec7e71c226b62ec979cb497a21.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/59828508-563c-4ad8-af30-939d3194bbad/image/h_small-ce9d28f513b72cd2bf44f76c428cd964.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/59828508-563c-4ad8-af30-939d3194bbad/image/v_xlarge-c7cc72fac7d1e6ceecbc3c13538f25e4.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/59828508-563c-4ad8-af30-939d3194bbad/image/v_large-d36a571e9c4f11e8621d2c834416e07a.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/59828508-563c-4ad8-af30-939d3194bbad/image/v_medium-907da1c53c4136893f7081115efd7739.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/59828508-563c-4ad8-af30-939d3194bbad/image/v_small-7fe2cc0056d64b4451b28c32ee2ca6cc.jpg"
+          },
+          {
+            "id": "eaacfdcc-9a9a-4aa4-aa56-b51a4ace9eb1",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/eaacfdcc-9a9a-4aa4-aa56-b51a4ace9eb1/image/h_xlarge-1990863db5a46482a87d58d1f62e05c0.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/eaacfdcc-9a9a-4aa4-aa56-b51a4ace9eb1/image/h_large-374151ba4a619626282f6ee5f41e6505.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/eaacfdcc-9a9a-4aa4-aa56-b51a4ace9eb1/image/h_medium-b0619493486da9275f9e0f8b976da0eb.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/eaacfdcc-9a9a-4aa4-aa56-b51a4ace9eb1/image/h_small-0fa440591773be92ceaf7a54efae881d.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/eaacfdcc-9a9a-4aa4-aa56-b51a4ace9eb1/image/v_xlarge-babbe6b0b0df4facde1bdfe74f1399d9.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/eaacfdcc-9a9a-4aa4-aa56-b51a4ace9eb1/image/v_large-13347705e69832ce575ed0bc6a531af4.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/eaacfdcc-9a9a-4aa4-aa56-b51a4ace9eb1/image/v_medium-000d806a990bad2085f1cceaf608d20c.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/eaacfdcc-9a9a-4aa4-aa56-b51a4ace9eb1/image/v_small-92be59cfa33be44580d535b22880753a.jpg"
+          },
+          {
+            "id": "07bb9756-de0b-49e3-885d-9a3a9457823b",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/07bb9756-de0b-49e3-885d-9a3a9457823b/image/h_xlarge-4a2c98bd1f5a4e3f421d5093c9220960.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/07bb9756-de0b-49e3-885d-9a3a9457823b/image/h_large-a18c72cf50783d06f9c9edd439612f06.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/07bb9756-de0b-49e3-885d-9a3a9457823b/image/h_medium-85d8fcd2ebbd99d7d13e02d7466d06b7.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/07bb9756-de0b-49e3-885d-9a3a9457823b/image/h_small-db8908350101d471a11181c6de8f750e.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/07bb9756-de0b-49e3-885d-9a3a9457823b/image/v_xlarge-b400c6c50145a976eb3c5f10b3d7f3bc.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/07bb9756-de0b-49e3-885d-9a3a9457823b/image/v_large-c2f74561f185230dc31209f798c50362.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/07bb9756-de0b-49e3-885d-9a3a9457823b/image/v_medium-a450a2a7def4076b1314d74a926829d8.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/07bb9756-de0b-49e3-885d-9a3a9457823b/image/v_small-a893bd0a7e0cfdcb34f0fd0fdf61960d.jpg"
+          },
+          {
+            "id": "702d90b0-1da6-4ce0-9786-7a6a8bf29b58",
+            "h_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/702d90b0-1da6-4ce0-9786-7a6a8bf29b58/image/h_xlarge-a1569c216ab897d9094300587d770cd9.jpg",
+            "h_large": "https://staging.grandnumero.com/uploads/store/hotelimage/702d90b0-1da6-4ce0-9786-7a6a8bf29b58/image/h_large-847023a632f296c8f5e42f52527ebf87.jpg",
+            "h_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/702d90b0-1da6-4ce0-9786-7a6a8bf29b58/image/h_medium-066f7099277cbe5f46c0af3ebc5e62dc.jpg",
+            "h_small": "https://staging.grandnumero.com/uploads/store/hotelimage/702d90b0-1da6-4ce0-9786-7a6a8bf29b58/image/h_small-487d3ba82a6cfd9f50040f5f9ece6c57.jpg",
+            "v_xlarge": "https://staging.grandnumero.com/uploads/store/hotelimage/702d90b0-1da6-4ce0-9786-7a6a8bf29b58/image/v_xlarge-13ffa7dbb150a80d103b3fcb41256ae3.jpg",
+            "v_large": "https://staging.grandnumero.com/uploads/store/hotelimage/702d90b0-1da6-4ce0-9786-7a6a8bf29b58/image/v_large-5151e60310cf3eef9393211baff66ebb.jpg",
+            "v_medium": "https://staging.grandnumero.com/uploads/store/hotelimage/702d90b0-1da6-4ce0-9786-7a6a8bf29b58/image/v_medium-e45a6d1d26e88dec1b779f8ea40ea719.jpg",
+            "v_small": "https://staging.grandnumero.com/uploads/store/hotelimage/702d90b0-1da6-4ce0-9786-7a6a8bf29b58/image/v_small-7b00de83b27a0b827cee47285482c93b.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
