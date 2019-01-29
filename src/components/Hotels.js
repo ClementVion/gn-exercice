@@ -22,6 +22,8 @@ class Hotels extends Component {
     return (
       <div className="Hotels">
 
+        <h1 className="Hotels__Title"> Hotels in Amsterdam </h1>
+
         <div 
           className="Hotels__Button"
           onClick={this.fetchHotels}> 

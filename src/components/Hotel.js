@@ -4,7 +4,6 @@ class Hotel extends Component {
   
   render() {
     const hotel = this.props.hotel;
-    console.log(hotel)
     
     return (
       <div className="Hotel">
