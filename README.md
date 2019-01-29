@@ -1,5 +1,7 @@
 # GN exercise
 
+This app is available at the url [http://gn-exercise.surge.sh](http://gn-exercise.surge.sh)
+
 ### Install dependencies
 Before starting the app, you should run `npm install` to install dependencies.<br>
 
