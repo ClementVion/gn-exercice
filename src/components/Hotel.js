@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 
 class Hotel extends Component {
-
+  
   render() {
     const hotel = this.props.hotel;
-
+    console.log(hotel)
+    
     return (
       <div className="Hotel">
 
@@ -13,8 +14,7 @@ class Hotel extends Component {
           alt={hotel.name} 
           src={hotel.images[0].v_large}
         />
-        <h3 className="Hotel__Title"> {hotel.name} </h3>
-        <p className="Hotel__Desc"> {hotel.description} </p>
+        <h3 className="Hotel__Name"> {hotel.name} </h3>
         <div className="Hotel__Rooms"> {hotel.rooms.length} chambres </div>
 
       </div>

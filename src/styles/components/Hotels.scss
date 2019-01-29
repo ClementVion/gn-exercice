@@ -1,0 +1,30 @@
+.Hotels {
+  max-width: $max-width;
+  width: $width;
+  margin: 100px auto;
+}
+
+.Hotels__Button {
+  cursor: pointer;
+  width: 200px;
+  height: 70px;
+  background-color: $c-button;
+  color: #FFF;
+  font-family: $font;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: $c-button-hover;
+  }
+}
+
+.Hotels__List {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

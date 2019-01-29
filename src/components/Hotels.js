@@ -22,7 +22,11 @@ class Hotels extends Component {
     return (
       <div className="Hotels">
 
-        <button onClick={this.fetchHotels}> Get hotels </button>
+        <div 
+          className="Hotels__Button"
+          onClick={this.fetchHotels}> 
+            Show hotels
+        </div>
         
         <div className="Hotels__List">
           {this.props.hotels && this.props.hotels.hotels.map((hotel, index) => {

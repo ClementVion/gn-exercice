@@ -1,0 +1,23 @@
+.Hotel {
+  width: 30%;
+  margin-bottom: 60px;
+  font-family: $font;
+}
+
+.Hotel__Image {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.Hotel__Name {
+  font-size: 18px;
+  font-weight: 500;
+  color: $c-black;
+  margin-bottom: 5px;
+}
+
+.Hotel__Rooms {
+  font-size: 16px;
+  font-weight: 300;
+  color: $c-grey;
+}

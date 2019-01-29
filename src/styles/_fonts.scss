@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Maison Neue';
+    src: url('/fonts/MaisonNeue-Medium.eot');
+    src: url('/fonts/MaisonNeue-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/MaisonNeue-Medium.woff2') format('woff2'),
+        url('/fonts/MaisonNeue-Medium.woff') format('woff'),
+        url('/fonts/MaisonNeue-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maison Neue';
+    src: url('/fonts/MaisonNeue-Light.eot');
+    src: url('/fonts/MaisonNeue-Light.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/MaisonNeue-Light.woff2') format('woff2'),
+        url('/fonts/MaisonNeue-Light.woff') format('woff'),
+        url('/fonts/MaisonNeue-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maison Neue';
+    src: url('/fonts/MaisonNeue-Demi.eot');
+    src: url('/fonts/MaisonNeue-Demi.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/MaisonNeue-Demi.woff2') format('woff2'),
+        url('/fonts/MaisonNeue-Demi.woff') format('woff'),
+        url('/fonts/MaisonNeue-Demi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
