@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import { fetchHotels } from '../actions/hotelActions';
 import Hotel from './Hotel.js';
 
@@ -30,16 +31,23 @@ class Hotels extends Component {
             Show hotels
         </div>
         
-        <div className="Hotels__List">
+        <TransitionGroup className="Hotels__List">
+
           {this.props.hotels && this.props.hotels.hotels.map((hotel, index) => {
             return (
-              <Hotel 
-                key={'hotel-card-' + index}
-                hotel={hotel}
-              />
+              <CSSTransition
+                key={hotel.id}
+                timeout={500}
+                classNames="fade"
+              >
+                <Hotel 
+                  hotel={hotel}
+                />
+              </CSSTransition>
             )
           })}
-        </div>
+            
+        </TransitionGroup>
 
       </div>
     );

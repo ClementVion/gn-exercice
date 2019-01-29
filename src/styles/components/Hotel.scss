@@ -21,3 +21,27 @@
   font-weight: 300;
   color: $c-grey;
 }
+
+.fade-enter {
+  opacity: 0.01;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 0.5s ease-in;
+}
+
+.fade-exit {
+  opacity: 1;
+}
+
+.fade-exit-active {
+  opacity: 0.01;
+  transition: opacity 0.5s ease-in;
+}
+
+@for $i from 1 through 20 {
+  .Hotel:nth-child(#{$i}) { 
+    transition-delay: 0.025s * $i;
+  }
+}
